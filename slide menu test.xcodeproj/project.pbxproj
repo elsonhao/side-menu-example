@@ -13,6 +13,7 @@
 		AF7119A41ED51D2A009DE838 /* slide_menu_test.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = AF7119A21ED51D2A009DE838 /* slide_menu_test.xcdatamodeld */; };
 		AF7119A61ED51D2A009DE838 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AF7119A51ED51D2A009DE838 /* Assets.xcassets */; };
 		AF7119A91ED51D2A009DE838 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AF7119A71ED51D2A009DE838 /* LaunchScreen.storyboard */; };
+		AF7119B31ED5203F009DE838 /* menu-alt-512.png in Resources */ = {isa = PBXBuildFile; fileRef = AF7119B21ED5203F009DE838 /* menu-alt-512.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AF7119A51ED51D2A009DE838 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AF7119A81ED51D2A009DE838 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AF7119AA1ED51D2A009DE838 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AF7119B21ED5203F009DE838 /* menu-alt-512.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "menu-alt-512.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				AF71199D1ED51D2A009DE838 /* ViewController.swift */,
 				AF71199F1ED51D2A009DE838 /* Main.storyboard */,
 				AF7119A51ED51D2A009DE838 /* Assets.xcassets */,
+				AF7119B21ED5203F009DE838 /* menu-alt-512.png */,
 				AF7119A71ED51D2A009DE838 /* LaunchScreen.storyboard */,
 				AF7119AA1ED51D2A009DE838 /* Info.plist */,
 				AF7119A21ED51D2A009DE838 /* slide_menu_test.xcdatamodeld */,
@@ -130,6 +133,7 @@
 				AF7119A91ED51D2A009DE838 /* LaunchScreen.storyboard in Resources */,
 				AF7119A61ED51D2A009DE838 /* Assets.xcassets in Resources */,
 				AF7119A11ED51D2A009DE838 /* Main.storyboard in Resources */,
+				AF7119B31ED5203F009DE838 /* menu-alt-512.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
